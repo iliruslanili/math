@@ -1,1 +1,1 @@
-# didactic-octo-funicular
+# В рамках курса "Data science в медицине"
